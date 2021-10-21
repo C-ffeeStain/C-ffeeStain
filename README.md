@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @C-ffeeStain.
-- 👀 I’m interested in Python software development in particular.
-- 🌱 I’m currently learning Kotlin, more about Python, and machine learning. 
-- 💞️ I’m looking to collaborate on not particularly anything right now, but reach out to me and maybe I can partner with you.
-- 📫 How to reach me:
+- Hi, I’m @C-ffeeStain.
+- I’m interested in software development and machine learning in Python.
+- I’m currently learning Kotlin, more about Python, and machine learning. 
+- I’m not looking to collaborate on anything right now, but reach out to me and maybe I'll partner with you.
+- Contact Information:
     - Discord: C_ffeeStain#4402
     - Email: c_ffeestain@gmail.com
 
