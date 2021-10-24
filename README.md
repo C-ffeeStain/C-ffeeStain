@@ -4,7 +4,7 @@
 - I’m not looking to collaborate on anything right now, but reach out to me and maybe I'll partner with you.
 - Contact Information:
     - Discord: C_ffeeStain#4402
-    - Email: c_ffeestain@gmail.com
+    - Email: c.ffeestain@gmail.com
 
 <!---
 C-ffeeStain/C-ffeeStain is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
