@@ -1,6 +1,6 @@
-- Hi, I’m @C-ffeeStain.
-- I do stuff with P5.js on my Github Pages site. Also sometimes I work with Python. 
-- I’m not looking to collaborate on anything right now, but reach out to me and maybe I'll partner with you.
+- Hi, I’m @C-ffeeStain, 19 years old as of 2026.
+- These days, I mostly do game dev stuff in Godot. Got a bunch of old Python stuff under this user though; half of it doesn't work anymore :/
+- I'm not against doing commissions, joining game jam teams, or the like. Reach out on Discord and we'll figure something out.
 - Contact Information:
     - Discord: c_ffeestain
     - Email: c.ffeestain@gmail.com
